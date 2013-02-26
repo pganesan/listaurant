@@ -1,0 +1,18 @@
+#Project files
+*.classpath
+*.project
+META-INF
+
+#Binary files
+*.jar
+*.war
+*.ear
+*.class
+
+#Build files
+*.bat
+.metadata
+*.xml
+
+# Office Temp Files
+~$*
