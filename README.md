@@ -17,7 +17,7 @@ and view the menu. Select items from menu and order a takeout. Payments can be m
 The user can sort/filter ratings. Members can also post their own reviews.
 
 
-# SCURN HIGHLIGHTS
+# LISTAURANT HIGHLIGHTS
 * AJAX requests to load tabbed views.
 * Extensive use of JQuery UI widgets.
 * Reviews/Ratings page modeled similar to Yelp.
